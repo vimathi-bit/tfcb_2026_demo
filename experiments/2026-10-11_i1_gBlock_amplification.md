@@ -29,6 +29,6 @@ Issue: [Issue #1](https://github.com/vimathi-bit/tfcb_2026_demo/issues/1)
 
 ## Result
 
-![gel](img/2026-10-11_i1_gblock_pcr_gel.png)
+![gel](img/gel.png)
 
-PCR products (amplified gBlock DNA fragment) run on a 2% agarose gel at the expected sizes of 207 and 206bp. Image produced by Vimathi Gummalla.
+*PCR products (amplified gBlock DNA fragment) run on a 2% agarose gel at the expected sizes of 207 and 206bp. Image produced by Vimathi Gummalla.*
