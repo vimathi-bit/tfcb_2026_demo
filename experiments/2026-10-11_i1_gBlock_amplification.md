@@ -4,7 +4,7 @@ Date: 2026-10-11
 
 Issue: [Issue #1](https://github.com/vimathi-bit/tfcb_2026_demo/issues/1)
 
-## Reagents (for PCR)
+## Reagents
 
 | reagent | vendor | catalog number | stock concentration | final concentration |
 |---|---|---|---|---|
