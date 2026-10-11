@@ -1,6 +1,6 @@
 # Experiment: PCR amplify gBlock DNA fragment for HDR template 
 
-Date: 2026-10-11
+**Date: ** 2026-10-11
 
 Issue: [Issue #1](https://github.com/vimathi-bit/tfcb_2026_demo/issues/1)
 
